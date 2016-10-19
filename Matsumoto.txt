@@ -1,3 +1,4 @@
 Shou Matsumoto
 
-Just making some changes to a file.
+Testing changes to existing file from github desktop 
+(I usually access github from eclipse, which is slightly different from how github desktop works).
